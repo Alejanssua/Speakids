@@ -1,0 +1,37 @@
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\bin\Debug\Speakids.exe.config
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\bin\Debug\Speakids.exe
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\bin\Debug\Speakids.pdb
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.Properties.Resources.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.csproj.GenerateResource.cache
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.csproj.CoreCompileInputs.cache
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.exe
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.pdb
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.Salir.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.Proceso.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.Conocimiento_Ingles.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.seleccionarListening.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.seleccionarVocabulary.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.seleccionarWriting.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.MostrarResultados.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\bin\Debug\Speakids.exe.manifest
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\bin\Debug\Speakids.application
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.exe.manifest
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.application
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.Informacion.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Quinto Semestre\Proyecto Integrador II\Proyecto Speakids\Speakids\Speakids\obj\Debug\Speakids.Ajustes.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.csprojAssemblyReference.cache
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.Ajustes.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.Informacion.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.Proceso.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.Conocimiento_Ingles.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.MostrarResultados.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.Properties.Resources.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.Salir.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.seleccionarListening.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.seleccionarVocabulary.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.seleccionarWriting.resources
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.csproj.GenerateResource.cache
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.csproj.CoreCompileInputs.cache
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.exe
+C:\Users\ALEJANDRO SALAZAR\Desktop\Speakidss\Speakids\obj\Debug\Speakids.pdb
